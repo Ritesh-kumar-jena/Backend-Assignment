@@ -1,0 +1,2 @@
+- MongoUrl=Database URL which helps us to connect to the MongoAtlas
+- port=port Number
